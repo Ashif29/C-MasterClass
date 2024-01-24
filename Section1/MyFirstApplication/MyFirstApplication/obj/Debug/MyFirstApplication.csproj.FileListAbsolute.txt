@@ -1,0 +1,7 @@
+C:\Users\asifd\Desktop\Github Repos\CSharp-MasterClass\Section1\MyFirstApplication\MyFirstApplication\bin\Debug\MyFirstApplication.exe.config
+C:\Users\asifd\Desktop\Github Repos\CSharp-MasterClass\Section1\MyFirstApplication\MyFirstApplication\bin\Debug\MyFirstApplication.exe
+C:\Users\asifd\Desktop\Github Repos\CSharp-MasterClass\Section1\MyFirstApplication\MyFirstApplication\bin\Debug\MyFirstApplication.pdb
+C:\Users\asifd\Desktop\Github Repos\CSharp-MasterClass\Section1\MyFirstApplication\MyFirstApplication\obj\Debug\MyFirstApplication.csproj.AssemblyReference.cache
+C:\Users\asifd\Desktop\Github Repos\CSharp-MasterClass\Section1\MyFirstApplication\MyFirstApplication\obj\Debug\MyFirstApplication.csproj.CoreCompileInputs.cache
+C:\Users\asifd\Desktop\Github Repos\CSharp-MasterClass\Section1\MyFirstApplication\MyFirstApplication\obj\Debug\MyFirstApplication.exe
+C:\Users\asifd\Desktop\Github Repos\CSharp-MasterClass\Section1\MyFirstApplication\MyFirstApplication\obj\Debug\MyFirstApplication.pdb
